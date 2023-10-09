@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670680887604",
+    "project_id": "flutter-chat-app-cedde",
+    "storage_bucket": "flutter-chat-app-cedde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670680887604:android:d0e6a2bc7188cd93b77561",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfO6oeClsRYi7S6XurS16f_Zwgnpco--0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
